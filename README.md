@@ -37,7 +37,7 @@ This project was developed as part of an internship at CodeAlpha. Special thanks
 
 ## License
 
-
+This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/CodeAlpha_Stock_Portfolio_Tracker/blob/main/LICENSE](LICENSE) file for details
 
 ## Screenshot of the project:
 
