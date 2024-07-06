@@ -34,6 +34,7 @@ This project was developed as part of an internship at CodeAlpha. Special thanks
 
 ## Link of the project:
 
+https://github.com/sravanthi-27/CodeAlpha_Stock_Portfolio_Tracker
 
 ## License
 
