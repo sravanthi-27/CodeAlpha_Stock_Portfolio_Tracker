@@ -1,7 +1,7 @@
-# CodeAlpha_Stock_Portfolio_Tracker
+Stock_Portfolio_Tracker
 
 Stock Portfolio Tracker
-Welcome to the Stock Portfolio Tracker! This project is a simple Python-based application to manage and track your stock investments. It was developed as the second project for the internship of Python Programming at CodeAlpha.
+Welcome to the Stock Portfolio Tracker! This project is a simple Python-based application to manage and track your stock investments. 
 
 Table of Contents
 Description
@@ -34,12 +34,12 @@ This project was developed as part of an internship at CodeAlpha. Special thanks
 
 ## Link of the project:
 
-https://github.com/sravanthi-27/CodeAlpha_Stock_Portfolio_Tracker
+https://github.com/sravanthi-27/Stock_Portfolio_Tracker
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/CodeAlpha_Stock_Portfolio_Tracker/blob/main/LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [https://github.com/sravanthi-27/Stock_Portfolio_Tracker/blob/main/LICENSE](LICENSE) file for details
 
 ## Screenshot of the project:
 
-![Screenshot 2024-07-06 141554](https://github.com/sravanthi-27/CodeAlpha_Stock_Portfolio_Tracker/assets/170450054/1101dc11-58ee-4b76-90a0-4c29202cf540)
+![Screenshot 2024-07-06 141554](https://github.com/sravanthi-27/Stock_Portfolio_Tracker/assets/170450054/1101dc11-58ee-4b76-90a0-4c29202cf540)
